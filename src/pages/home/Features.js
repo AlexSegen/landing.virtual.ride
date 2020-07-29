@@ -52,10 +52,10 @@ const FeaturesSection = () => {
 
                             <h4>Immediacy</h4>
                             <p className="small">
-                                <strong>DISPOSITIVOS PROVEEN ACCESO EN TIEMPO REAL</strong> y vista real de Showroom con vehiculos vistos en 360°.
+                                <strong>EXPLORE ALL AVAILABLE VEHICLES</strong> you can visit all Show Room vehicles using our 360° system.
                             </p>
                             <p className="small">
-                                <strong>EL CAR BUYING JOURNEY SE ESTA MOVIENDO A DIGITAL</strong>, podemos ver muchos vehiculos en un solo espacio digital sin movernos de casa para comprar.
+                                <strong>THE CAR SALES MARKET IS MOVING TO DIGITAL MARKET</strong>, you can see many vehicles on a single digital space from home.
                             </p>
 
                             <h4>Information</h4>

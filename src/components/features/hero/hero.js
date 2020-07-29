@@ -9,13 +9,13 @@ const Hero = () => {
             <img
               className="sr_hero--splash sr--anim wow scale-in-center"
               src="/assets/img/hero-car.png"
-              alt=""
+              alt="Virtual Ride"
             />
             <h1 className="sr_hero--title sr--anim wow scale-in-center">
               <span>Virtual</span>Ride
             </h1>
             <p className="sr_hero--description sr--anim wow scale-in-center">
-                We bring you a new platform that will help improve and make online sells more easy, while giving a new user experience.
+                We bring you a new platform that will help improve and make online sales more easy, while giving a new user experience.
             </p>
             <a
               href="#demo"
