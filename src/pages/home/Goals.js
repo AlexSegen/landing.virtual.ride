@@ -19,7 +19,7 @@ const GoalsComponent = () => {
 
                 <h4 className="text-dark mt-5">General</h4>
                 <p>
-                  Poner a disposición de los usuarios particulares y automotoras unaplataforma tecnológica, que permita mejorar la experiencia usuariaen cuanto a la visibilidad de automóviles de alta gama desde el portalde Chileautos.
+                  Poner a disposición de los usuarios particulares y automotoras unaplataforma tecnológica, que permita mejorar la experiencia usuariaen cuanto a la visibilidad de automóviles de alta gama desde el portal de Chileautos.
                 </p>
 
                 <h4 className="text-dark mt-5">Specific</h4>
