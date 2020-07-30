@@ -13,7 +13,7 @@ const DemoComponent = () => {
                   our <span>VirtualRide</span> Demo
                 </h3>
                 <p>Experience our online tour</p>
-                <a href="/" target="_blank" className="btn btn-primary btn-lg pr-5 pl-5 btn-launch" >
+                <a href="http://operaciones.chileautos.cl/hackathon/virtual-ride/" rel="noopener noreferrer" target="_blank" className="btn btn-primary btn-lg pr-5 pl-5 btn-launch" >
                   <i className="fa fa-rocket"></i> LAUNCH</a>
               </div>
             </div>
