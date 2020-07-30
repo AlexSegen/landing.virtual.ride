@@ -50,28 +50,22 @@ const FeaturesSection = () => {
                             </h2>
                             <div className="sr_divider --brand "></div>
 
-                            <h4>Immediacy</h4>
+                            <h4>SHOW OFF DEALER'S SPACE</h4>
                             <p className="small">
-                                <strong>EXPLORE ALL AVAILABLE VEHICLES</strong> you can visit all Show Room vehicles using our 360° system.
-                            </p>
-                            <p className="small">
-                                <strong>THE CAR SALES MARKET IS MOVING TO DIGITAL MARKET</strong>, you can see many vehicles on a single digital space from home.
+                                Along with the fluid virtual walkthrough model, we highlight certain aspects of the showroom within the tour that would draw customers to those areas, allowing your audience to interact in a completely new, exciting, and unrivaled format. 
                             </p>
 
-                            <h4>Information</h4>
+                            <h4>ENGAGE DEALERS AUDIENCE </h4>
                             <p className="small">
-                                Optimizamos el tiempo de compra de un cliente, information detallada de cada vehiculo en muestra. <strong>AUTOMONIA DE VISITAR TODOS LOS VEHICULOS QUE SE PROPONGA EL CLIENTE</strong>
+                                Online engagement could be the difference between you and your competitors. There is no better way to show off your vehicles/showroom than through the use of a fully immersive virtual tour. 
                             </p>
 
-                            <h4>Online Consultations</h4>
-                            <p className="small"><strong>DISMINUYE EL TIEMPO DE BUSQUEDA DE INFORMACION EN DISTINTOS PORTALES</strong>, ahorro de espacio Fisico en automotoras a future.</p>
+                            <h4>24/7 VR TOURS FIT BUYERS BUSY SCHEDULES </h4>
+                            <p className="small">3D VR Tours allow flexible instant remote viewing anytime, anywhere. </p>
 
-                            <p className="small">DISMINUYE EL TIEMPO PARA CONTACTAR AL CLIENTE CON UN EJECUTIVO DE VENTA</p>
+                            <h4>QUALITY INFORMATION AND IMAGERY  </h4>
 
-                            <h4>Innovation</h4>
-                            <p className="small"><strong>Otorga mayor sensacion de realism al estar visitando y comprando el vehiculo</strong>, Pocos competidores en el Mercado con la innovacion que puedan competir con los nombres de las marcas de Carsales.</p>
-
-                            <p className="small"><strong>360°  tanto en vistas interiors y exteriors de los vehiculos</strong></p>
+                            <p className="small">Vehicle views and panoramas are so much more than standard, basic image. Having access to every angle of a car, inside and outside, is extremely valuable. Users will be surprised to see just how realistic, high-quality, and immersive this research process really is. </p>
 
                             <div className="sr_content--footer">
                                 <a href="#goals" className="btn btn-primary pr-5 pl-5 mt-3 smooth">Next

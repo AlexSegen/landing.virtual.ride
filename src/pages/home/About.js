@@ -12,12 +12,10 @@ const AboutSection = () => {
                         </h2>
                         <div className="sr_divider --brand "></div>
                         <p>
-                            In 2018 <strong>Peugeot</strong> was the first brand in Chile to offer 100% online sales for its models,
-                            this year other
-                            brands have joined this modality. Seeing this emerging market in the <strong>Hackaton -Chileautos
-                            2019</strong> team
-                            arose the need to provide users with a technological platform capable of transforming that moment of
-                            acquisition of a vehicle into a <strong> 100% online experience</strong>.
+                            The pandemic of this year has changed the way to access to many services and showrooms 
+                            are not the exception, with our <strong>VirtualRide</strong> we are able to use our technology to go inside a range of 
+                            cars as well as <strong>exploring the showroom</strong> from all angles, allowing prospective buyers to <strong>visit and explore showrooms and 
+                            vehicles online</strong> as if they had physically stepped inside the building or driving seat itself.
                         </p>
                         <div className="sr_content--footer">
                             <a href="#features" className="btn btn-primary pr-5 pl-5 mt-3 smooth" >Continue
